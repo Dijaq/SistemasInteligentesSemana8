@@ -1,4 +1,4 @@
-## SistemasInteligentesSemana8
+## Sistemas Inteligentes Semana 8
 
 El siguiente repositorio contiene la implementación del algoritmo de clasificación NaiveBayes.
 
